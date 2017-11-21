@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 20, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kerrigan McCulloch
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The goal of this assignment was to make the recipe ingredients and instructions appear.  
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kerriganmcculloch.github.io/lesson7_jquery/ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned when to add a fade in and that it can be slow, fast, etc. 
+2. You need to use a $ before commands with jquery. 
+3. To display something you need to use the command (event.currentTarget). 
 
